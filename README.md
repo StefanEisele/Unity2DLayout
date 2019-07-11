@@ -7,5 +7,5 @@ Specifications:
 Optimization so far.
 - Application.targetFrameRate = 60;
 - Static GameObjects
-  - Static Batching
+  - Static Batching enabled
 - Deleted Component: Audio Listener of Camera
