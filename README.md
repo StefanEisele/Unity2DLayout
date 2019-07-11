@@ -5,7 +5,7 @@ Specifications:
 - Windows 10 
 
 Optimization so far.
-	• Application.targetFrameRate = 60;
-	• Static GameObjects
-    - Static Batching
-	• Deleted Component: Audio Listener of Camera
+• Application.targetFrameRate = 60;
+• Static GameObjects
+   - Static Batching
+• Deleted Component: Audio Listener of Camera
